@@ -1,0 +1,5 @@
+ langchain_community ==0.3.10
+ spose_words ==24.11.0
+ mistune ==3.0.2
+ langchain_chroma ==0.1.4
+ pydantic ==2.10.1
